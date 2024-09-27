@@ -9,11 +9,11 @@
 </p>
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"
+<!--   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
       src="https://github-profile-trophy.vercel.app/?username=antondev-123"
       alt="antondev-123"
-  /></a>
+  /></a> -->
 </p>
 
 <p align="left">
