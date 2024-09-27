@@ -2,10 +2,10 @@
 <h3 align="center">A Senior Full Stack Developer</h3>
 
 <p align="left">
-  <img
+<!--   <img
     src="https://komarev.com/ghpvc/?username=antondev-123&label=Profile%20views&color=0e75b6&style=flat"
     alt="antondev-123"
-  />
+  /> -->
 </p>
 
 <p align="left">
