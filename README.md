@@ -379,6 +379,14 @@ framework** - 📫 How to reach me **sydoranton99@outlook.com**
 </p>
 
 <p>
+  <img
+    align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=antondev-123&show_icons=true&locale=en&layout=compact"
+    alt="antondev-123"
+  />
+</p>
+
+<p>
   &nbsp;<img
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=antondev-123&show_icons=true&locale=en"
