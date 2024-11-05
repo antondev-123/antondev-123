@@ -378,18 +378,18 @@ framework** - 📫 How to reach me **sydoranton99@outlook.com**
   />
 </p>
 
-<!-- <p>
+<p>
   &nbsp;<img
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=antondev-123&show_icons=true&locale=en"
     alt="antondev-123"
   />
-</p> -->
+</p>
 
-<!-- <p>
+<p>
   <img
     align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=antondev-123&"
     alt="fashioncstar"
   />
-</p> -->
+</p>
