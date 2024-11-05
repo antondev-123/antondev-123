@@ -370,21 +370,21 @@ framework** - 📫 How to reach me **sydoranton99@outlook.com**
   </a>
 </p>
 
-<p>
+<!-- <p>
   <img
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=antondev-123&show_icons=true&locale=en&layout=compact"
     alt="antondev-123"
   />
-</p>
+</p> -->
 
-<p>
+<!-- <p>
   &nbsp;<img
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=antondev-123&show_icons=true&locale=en"
     alt="antondev-123"
   />
-</p>
+</p> -->
 
 <!-- <p>
   <img
