@@ -378,7 +378,6 @@ framework** - 📫 How to reach me **sydoranton99@outlook.com**
   />
 </p>
 
-
 <p>
   &nbsp;<img
     align="center"
