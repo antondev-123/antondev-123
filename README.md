@@ -390,6 +390,6 @@ framework** - 📫 How to reach me **sydoranton99@outlook.com**
   <img
     align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=antondev-123&"
-    alt="fashioncstar"
+    alt="antondev-123"
   />
 </p>
